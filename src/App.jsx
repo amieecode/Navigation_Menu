@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import Medium_Nav from './Components/Horizontal_Bar/Medium_Nav';
+import B from './Components/Horizontal_Bar/B';
 
 
 function App() {
 
   return (
     <>
-     <Medium_Nav />
+     <B />
     </>
   )
 }
