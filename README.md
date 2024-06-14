@@ -1,8 +1,23 @@
-# React + Vite
+# Different Navigation Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is different navigation menu like
 
-Currently, two official plugins are available:
+- FaceBook
+- LinkedIn
+- Youtube
+- BBC
+- CNN
+- Instagram
+- Gmail
+- Medium
+- Boostarp
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies Used
+
+- React
+- Vite
+- HTML
+- CSS (with Tailwind CSS for styling)
+- JavaScript
+
