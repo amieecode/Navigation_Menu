@@ -1,12 +1,13 @@
 import { useState } from 'react';
-import B from './Components/Horizontal_Bar/B';
+import Gmail_Nav from './Components/Horizontal_Bar/Gmail_Nav';
+
 
 
 function App() {
 
   return (
     <>
-     <B />
+     <Gmail_Nav />
     </>
   )
 }

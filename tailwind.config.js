@@ -9,6 +9,7 @@ export default {
       colors: {
         primary: "#7811f7",
         brand: "#ffe484",
+        gmail: "#ededed",
       },
     },
   },
