@@ -5,6 +5,7 @@ import { RiVideoAddFill } from "react-icons/ri";
 import { TbGridDots } from "react-icons/tb";
 import { IoNotifications } from "react-icons/io5";
 import Profile from "../../assets/profile.jpg";
+import { GoSearch } from "react-icons/go";
 
 const Youtube_Nav = () => {
   return (
@@ -26,8 +27,11 @@ const Youtube_Nav = () => {
               <input 
                 type="search"
                 placeholder='Zoeken'
-                className='w-[500px] bg-[#fefefe] px-2 py-1 border-gray-300 border-2' 
+                className='w-[500px] bg-[#fefefe] px-2 py-1 border-gray-300 border-2 cursor-pointer' 
              />
+             <span className='inline-flex right-4 bg-[#e6e6e6] px-4 py-2 cursor-pointer'>
+                <GoSearch className='text-xl text-gray-500' />
+             </span>
           </div>
         </div>
 
