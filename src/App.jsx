@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import FB_Nav from './Components/Horizontal_Bar/FB_Nav';
+import Youtube_Nav from './Components/Horizontal_Bar/Youtube_Nav';
 
 
 function App() {
 
   return (
     <>
-      <FB_Nav />
+      <Youtube_Nav />
     </>
   )
 }
