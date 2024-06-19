@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import Youtube_Nav from './Components/Horizontal_Bar/Youtube_Nav';
+import IG_Nav from './Components/Horizontal_Bar/IG_Nav';
 
 
 function App() {
 
   return (
     <>
-      <Youtube_Nav />
+      <IG_Nav />
     </>
   )
 }

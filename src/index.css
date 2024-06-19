@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/*Menu animate line*/
+/*Menu animate line for Facebook Navigation*/
 .line {
     position:relative;
     display: inline-block;
@@ -39,4 +39,25 @@ uline {
     width: calc(100% + 20px);
     left: 0;
     background-color: #0075fb;
+}
+
+/*Menu animate line for IG Navigation*/
+.dot {
+    position: relative;
+}
+.dot::before {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background-color: red;
+    bottom: -4px;
+    left: 50px;
+    transform: translateX(50%);
+    transition: width 0.2s ease, height 0.2s ease;
+}
+.dot:hover::after {
+    width: 8px;
+    height: 8px;
 }

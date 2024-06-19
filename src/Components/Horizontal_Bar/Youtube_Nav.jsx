@@ -29,7 +29,7 @@ const Youtube_Nav = () => {
                 placeholder='Zoeken'
                 className='w-[500px] bg-[#fefefe] px-2 py-1 border-gray-300 border-2 cursor-pointer' 
              />
-             <span className='inline-flex right-4 bg-[#e6e6e6] px-4 py-2 cursor-pointer'>
+             <span className='inline-flex right-4 bg-[#eeeeee] px-4 py-2 cursor-pointer'>
                 <GoSearch className='text-xl text-gray-500' />
              </span>
           </div>
