@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import IG_Nav from './Components/Horizontal_Bar/IG_Nav';
+import LinkedIn_Nav from './Components/Horizontal_Bar/LinkedIn_Nav';
 
 
 function App() {
 
   return (
     <>
-      <IG_Nav />
+      <LinkedIn_Nav/>
     </>
   )
 }
