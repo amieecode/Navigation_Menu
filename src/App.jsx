@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import LinkedIn_Nav from './Components/Horizontal_Bar/LinkedIn_Nav';
+import CNN_Nav from './Components/Horizontal_Bar/CNN_Nav';
 
 
 function App() {
 
   return (
     <>
-      <LinkedIn_Nav/>
+      <CNN_Nav />
     </>
   )
 }
