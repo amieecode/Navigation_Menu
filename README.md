@@ -23,4 +23,4 @@ Here is different navigation menu like
 
 Here is the design 
 
-![Naviagtion Designs](https://github.com/amieecode/Navigation_Menu/assets/67154526/d3b6db5a-b3fc-421f-b667-9df32a93787e)
+![Navigation Designs](/src/assets/Nav_design.png)
