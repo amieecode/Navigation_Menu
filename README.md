@@ -21,6 +21,5 @@ Here is different navigation menu like
 - CSS (with Tailwind CSS for styling)
 - JavaScript
 
-Here is the design 
-
-![Navigation Designs](/src/assets/Nav_design.png)
+Here is the design
+![Navigation Design](/src/assets/Nav_design.png)
