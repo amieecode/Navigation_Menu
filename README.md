@@ -22,4 +22,5 @@ Here is different navigation menu like
 - JavaScript
 
 Here is the design
+
 ![Navigation Design](/src/assets/Nav_design.png)
